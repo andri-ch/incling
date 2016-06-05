@@ -1,0 +1,5 @@
+db.sqlite3
+demoapp/db.sqlite3
+__pycache__
+# all files ending in ~
+*~
