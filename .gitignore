@@ -3,3 +3,6 @@ demoapp/db.sqlite3
 __pycache__
 # all files ending in ~
 *~
+# vim swap files
+*.swp
+*.swo
