@@ -29,25 +29,3 @@ TaskBuster has been done, and even do it yourself if you want to!!
  
     <a href="http://marinamele.com/taskbuster-django-tutorial" 
     target="_blank">TaskBuster Django Tutorial</a>
- 
-To start using the Boilerplate, check out the :doc:`requirements` 
-and next the :doc:`quick_start`.
-
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   requirements
-   quick_start
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
